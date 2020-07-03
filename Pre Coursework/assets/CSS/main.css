@@ -1,0 +1,44 @@
+html, body {
+    background-color: lavender;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 0;
+}
+.page {
+    background-color: whitesmoke;
+    margin: 3% 13% 3% 13%;
+    padding: 0;
+    border-radius: 20px;
+}
+header {
+    background-color: #F7CDCD;
+    font-family: fantasy;
+    margin: 0;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-size: 50px;
+}
+.about {
+    background-color: #FEFAD7;
+    border-radius: 20px;
+    padding: 2% 5% 2% 5%;
+    margin: 5% 15% 0% 15%;
+    font-size: 16px;
+}
+
+img {
+    border-radius: 20px;
+    width: 250px;
+    margin: 10px;
+}
+
+footer {
+    font-size: 16px;
+    padding: 20px;
+}
+button {
+    background-color: #F7CDCD;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
